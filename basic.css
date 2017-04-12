@@ -1,6 +1,6 @@
 /* Backgrounds */
 #homepage {
-	background-image: url("Images/backgroundimage.JPG");
+	background-image: url("/Images/backgroundimage.jpg");
     background-size: cover;
 	background-repeat: repeat-x;
 }
