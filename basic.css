@@ -1,0 +1,194 @@
+/* Backgrounds */
+#homepage {
+	background-image: url("Images/backgroundimage.JPG");
+    background-size: cover;
+	background-repeat: repeat-x;
+}
+
+#aboutharry {
+	background-color: rgb(255, 105, 180); /* For browsers that don't support gradients */
+    background: linear-gradient(white, hotpink);
+}
+
+#aboutniall {
+	background-color: rgb(0, 250, 154); /* For browsers that don't support gradients */
+	background: linear-gradient(white, mediumspringgreen);
+}
+
+#aboutlouis {
+	background-color: rgb(255, 99, 71); /* For browsers that don't support gradients */
+	background: linear-gradient(white, tomato);
+}
+
+#aboutliam {
+	background-color: rgb(186, 85, 211); /* For browsers that don't support gradients */
+	background: linear-gradient(white, mediumorchid);
+}
+
+#aboutzayn {
+	background-color: rgb(30, 144, 255); /* For browsers that don't support gradients */
+	background: linear-gradient(white, dodgerblue);
+}
+
+/* Navigation Buttons */
+.button
+{
+    background-color: black;
+    color: white;
+    padding: 1% 4.91%;
+    text-align: center;
+	display: inline-block;
+	font-family: Cuprum;
+	float: left;
+}
+
+/* Text */
+.mainh1 {
+	color: red;
+	font-family: Cuprum;
+}
+
+#welcome {
+	color: red;
+	font-family: Cuprum;
+	font-size: 20px;
+}
+
+#harryh1 {
+	font-family: "Vampiro One", cursive;
+	font-size: 60px;
+	text-align: center;
+}
+
+#niallh1 {
+	font-family: "Rammetto One", cursive;
+	font-size: 47px;
+	text-align: center;
+}
+
+#louish1 {
+	font-family: "Londrina Solid", cursive;
+	font-size: 57px;
+	text-align: center;
+}
+
+#liamh1 {
+	font-family: "Alfa Slab One", cursive;
+	font-size: 47px;
+	text-align: center;
+}
+
+#zaynh1 {
+	font-family: "Black Ops One";
+	font-size: 50px;
+	text-align: center;
+}
+
+.memberh2 {
+	color: black;
+	font-family: Cuprum;
+	font-size: 30px;
+}
+
+.memberff {
+	font-weight: bold;
+}
+
+#referencesh1 {
+	font-family: Cuprum;
+}
+
+.referencesh2 {
+	font-family: Cuprum;
+}
+
+/* Images */
+#logo {
+	width: 71%;
+    height: 15%; 
+    display: block;
+    margin: 0px auto;
+	padding: 0% 0% 36% 0%;
+	position: relative;
+	top: 20%;
+}
+
+#harry {
+	width: 32%;
+	height: 50%;
+	display: inline-block;
+	padding: 3% 6% 4% 2%;
+	position: relative;
+	top: 20%;
+	float: left;
+	clear: left;
+}
+
+#niall {
+	width: 30%;
+	height: 50%;
+	display: inline-block;
+	position: relative;
+	top: 20%;
+	float: left;
+	clear: left;
+	padding: 4% 3% 3% 1%;
+}
+
+#louis {
+	width: 40%;
+	height: 50%;
+	display: inline-block;
+	padding: 3% 0% 3% 0%;
+	position: relative;
+	top: 20%;
+	float: left;
+	clear: left;
+}
+
+#liam {
+	width: 40%;
+	height: 30%;
+	display: inline-block;
+	padding: 5% 2% 2% 0%;
+	position: relative;
+	top: 20%;
+	float: left;
+	clear: left;
+}
+
+#zayn {
+	width: 35%;
+	height: 40%;
+	display: inline-block;
+	padding: 0% 3% 2% 0%;
+	position: relative;
+	top: 20%;
+	float: left;
+	clear: left;
+}
+
+#youtube {
+	width: 4%;
+	height: 5%;
+}
+
+#facebook {
+	width: 3%;
+	height: 10%;
+}
+
+#twitter {
+	width: 3%;
+	height: 10%;
+}
+
+#instagram {
+	width: 3%;
+	height: 10%;
+}
+
+#spotify {
+	width: 3%;
+	height: 10%;
+}
